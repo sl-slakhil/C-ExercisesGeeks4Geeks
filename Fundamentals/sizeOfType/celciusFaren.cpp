@@ -9,6 +9,8 @@ int main()
 
     faren = (celcius-32)*5/9;
     std::cout<<faren;
+
+    std::cout<<"Change Check git";
     return 0;
 
 }
